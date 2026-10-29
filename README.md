@@ -1,9 +1,15 @@
-# Dr Anika Kanwal Academic Portfolio
+# Dr Anika Kanwal — Academic Portfolio (Redesigned)
 
-## Publish on GitHub Pages
-1. Create a public GitHub repository named `portfolio`.
-2. Upload `index.html`, `style.css`, and `Anika_Kanwal_CV.pdf` to the root of that repository.
-3. Go to Settings > Pages > Build and deployment, choose `Deploy from a branch`, then `main` and `/ (root)`. Save.
-4. Your site should appear at `https://YOUR-GITHUB-USERNAME.github.io/portfolio/` after deployment.
+A static, mobile-responsive academic portfolio, built with HTML/CSS and ready for GitHub Pages.
 
-Edit `index.html` to change text or links. The circular AK monogram is a photo placeholder. Review all personal information and dates before making the repository public.
+## Publish / update
+1. Extract this ZIP.
+2. In your existing GitHub `portfolio` repository, upload **all four files** into the repository root (replace existing files).
+3. Commit the changes. GitHub Pages will publish the updated site automatically.
+4. If creating a new repository, go to Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
+
+## Notes
+- Swinburne academic position is displayed as **Sessional Academic** as requested.
+- No mobile number is displayed on the website or in the supplied phone-redacted CV PDF.
+- The profile uses an illustrated initials motif instead of an unsupplied photo.
+- Update content in `index.html`, styles in `style.css`.
